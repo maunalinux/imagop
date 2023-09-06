@@ -1,0 +1,20 @@
+Source: imagop
+Section: graphics
+Priority: optional
+Maintainer: Mauna Linux <dev@maunalinux.top>
+Build-Depends: debhelper (>= 10), dh-python, python3-all, python3-setuptools
+Standards-Version: 4.6.0
+Homepage: https://github.com/maunalinux/imagop
+
+Package: imagop
+Architecture: all
+Depends: ${misc:Depends},
+         ${python3:Depends},
+         gir1.2-glib-2.0,
+         gir1.2-gtk-3.0,
+         gir1.2-notify-0.7,
+         pngquant,
+         python3-pil,
+         zopfli
+Description: Image Optimizer
+ Optimizes the size of images.

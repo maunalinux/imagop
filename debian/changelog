@@ -1,0 +1,146 @@
+imagop (1.0.0) mauna; urgency=medium
+
+  * New upstream release for Mauna Linux
+
+ -- Mauna Linux <dev@maunalinux.top>  Sun, 20 Aug 2023 21:19:32 -0300
+
+imagop (0.3.0) kapok; urgency=medium
+
+  * New upstream release for Amarok Linux OS
+  * Added brazilian Portuguese translation
+
+ -- Amarok Linux <packages@amaroklinux.org>  Mon, 07 Aug 2023 22:43:15 -0300
+
+imagop (0.2.0) unstable; urgency=medium
+
+  * Add freed up info and Update completed listbox ui
+  * Add xdg-open to clicked image on completed page
+  * Fix typo
+  * Add dynamically sensitive to optimize button
+  * Update translate generation as dynamic
+  * Update pot file
+  * Update Turkish translations
+  * Fix typo
+  * Update bin script and main
+  * Fix typo
+  * Update screenshot
+  * Update README
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Wed, 08 Feb 2023 14:16:32 +0300
+
+imagop (0.1.0) unstable; urgency=medium
+
+  * Add image output settings with overwrite or folder selection
+  * Add current folder image output settings with new options and Update settings ui
+  * Add output folder write permission control
+  * Reformat code
+  * Add info label to settings page
+  * Update pot file
+  * Update Turkish translations
+  * Add backup_image function for prevent unwanted overwrites
+  * Add jpg and png progress labels to splash page
+  * Update pot file
+  * Update Turkish translations
+  * Add Glib.idle_add to done_listbox
+  * Update screenshots
+  * Update README.md
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 14 Mar 2022 12:35:46 +0300
+
+imagop (0.1.0~beta7) unstable; urgency=medium
+
+  * Add control to set_sensitive of restore defaults button
+  * Add right click menu for delete images from iconview
+  * Add del key shortcut and enable multi select on iconview
+  * Update pot file
+  * Update Turkish translations
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Wed, 02 Mar 2022 10:47:43 +0300
+
+imagop (0.1.0~beta6) unstable; urgency=medium
+
+  * Use listbox instead of textview on done page info
+  * Update done page ui
+  * Add exception for urllib.parse.unquote file path
+  * Update screenshots
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Tue, 22 Feb 2022 14:27:47 +0300
+
+imagop (0.1.0~beta5) unstable; urgency=medium
+
+  * Add drag and drop info label to main stack
+  * Add animation to main_stack
+  * Rm UnidentifiedImageError exception
+  * Add settings page with jpeg quality option
+  * Add restore defaults button to settings and Update headerbar ui
+  * Add UserSettings.py to setup.py
+  * Update pot file
+  * Update Turkish translations
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Wed, 16 Feb 2022 18:07:50 +0300
+
+imagop (0.1.0~beta4) unstable; urgency=medium
+
+  * Update main_window icon
+  * Update README.md
+  * Fix file chooser dialog
+  * Fix file size typo
+  * Update translations
+  * Update image format control as using python3-pil
+  * Update file format control on optimize_clicked func too
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 14 Feb 2022 16:55:26 +0300
+
+imagop (0.1.0~beta3) unstable; urgency=medium
+
+  [ Yusuf Düzgün ]
+  * Add application icon
+
+  [ Fatih Altun ]
+  * Change image-optimizer as imagop
+  * Add description to about_dialog
+  * Update translations
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Thu, 10 Feb 2022 18:24:49 +0300
+
+imagop (0.1.0~beta2) unstable; urgency=medium
+
+  * Fix open output directory command
+  * Add notify function
+  * Add suggested-action class to start button
+  * Add support for jpg images with using python3-pil library
+  * Update sw min-content-width
+  * Add remove image from ui ability on double click to images
+  * Add python3-pil to depends
+  * Update README.md
+  * Add sample jpg images
+  * Update app screenshots
+  * Update README.md
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Tue, 08 Feb 2022 11:19:34 +0300
+
+imagop (0.1.0~beta1) unstable; urgency=medium
+
+  * Initial Commit
+  * Add base functions and ui implementation
+  * Add new GLib spawn for zopflipng optimization
+  * Add image compress info textview to complete stack
+  * Add png file control while adding images to ui
+  * Add setup.py
+  * Add desktop file
+  * Add script file
+  * Add debian folder for deb packaging
+  * Add about_dialog
+  * Update changing visible to sensitive of select button
+  * Update window position as center
+  * Add LICENSE
+  * Add screenshots
+  * Add README.md
+  * Update README.md
+  * Add drag and drop ability for select images
+  * Update completed optimization info text
+  * Add translations with Turkish translations
+  * Update complete page buttons ui
+  * Fix drag and drop file names with urllib unquote
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 07 Feb 2022 18:00:32 +0300

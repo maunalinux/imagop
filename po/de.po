@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-07 01:34+0300\n"
+"PO-Revision-Date: 2023-08-12 11:11-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: ui/MainWindow.glade:36
+msgid "Optimizes the sizes of images."
+msgstr "Optimiert die Größe von Bildern."
+
+#: ui/MainWindow.glade:122
+msgid "OK"
+msgstr "OKAY"
+
+#: ui/MainWindow.glade:162
+msgid "<small>You can drag and drop images to the field below.</small>"
+msgstr "<small>Sie können Bilder per Drag & Drop in das Feld darunter ziehen.</small>"
+
+#: ui/MainWindow.glade:200
+msgid "Start Optimization"
+msgstr "Optimierung Starten"
+
+#: ui/MainWindow.glade:233
+msgid "Optimization is in progress."
+msgstr "Die Optimierung ist im Gange."
+
+#: ui/MainWindow.glade:257
+msgid "JPG images :"
+msgstr "JPG-Bilder :"
+
+#: ui/MainWindow.glade:296
+msgid "PNG images :"
+msgstr "PNG-Bilder :"
+
+#: ui/MainWindow.glade:348
+msgid "Please wait ..."
+msgstr "Bitte warten ..."
+
+#: ui/MainWindow.glade:417
+msgid "Show Files"
+msgstr "Dateien anzeigen"
+
+#: ui/MainWindow.glade:433
+msgid "New Optimization"
+msgstr "Neue Optimierung"
+
+#: ui/MainWindow.glade:489
+msgid "JPEG image quality :"
+msgstr "JPEG-Bildqualität :"
+
+#: ui/MainWindow.glade:517
+msgid "Image Quality Settings"
+msgstr "Einstellungen für die Bildqualität"
+
+#: ui/MainWindow.glade:550
+msgid "Save pictures to folder"
+msgstr "Bilder im Ordner speichern"
+
+#: ui/MainWindow.glade:551
+msgid "Save each image in its own directory"
+msgstr "Speichern Sie jedes Bild in einem eigenen Verzeichnis"
+
+#: ui/MainWindow.glade:552
+msgid "Overwrite existing image"
+msgstr "Vorhandenes Bild überschreiben"
+
+#: ui/MainWindow.glade:576
+msgid "Image output folder :"
+msgstr "Ordner für die Bildausgabe :"
+
+#: ui/MainWindow.glade:616
+msgid "Image extra name :"
+msgstr "Zusätzlicher Name des Bildes :"
+
+#: ui/MainWindow.glade:652
+msgid "Image Output Settings"
+msgstr "Einstellungen für die Bildausgabe"
+
+#: ui/MainWindow.glade:671
+msgid "About"
+msgstr "Über"
+
+#: ui/MainWindow.glade:688
+msgid "Restore Defaults"
+msgstr "Standardeinstellungen wiederherstellen"
+
+#: ui/MainWindow.glade:756
+msgid "Image Optimizer"
+msgstr "Bild-Optimierer"
+
+#: ui/MainWindow.glade:763 src/MainWindow.py:182
+msgid "Select Image(s)"
+msgstr "Bild(er) Auswählen"
+
+#: ui/MainWindow.glade:780
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: src/MainWindow.py:107
+msgid "Remove from list"
+msgstr "Aus Liste entfernen"
+
+#: src/MainWindow.py:184
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: src/MainWindow.py:185
+msgid "Open"
+msgstr "Offen"
+
+#: src/MainWindow.py:189
+msgid "All supported files"
+msgstr "Alle unterstützten Dateien"
+
+#: src/MainWindow.py:195
+msgid "PNG files"
+msgstr "PNG-Dateien"
+
+#: src/MainWindow.py:199
+msgid "JPG/JPEG files"
+msgstr "JPG/JPEG-Dateien"
+
+#: src/MainWindow.py:270
+msgid "You don't have write permissions to the image output folder."
+msgstr "Sie haben keine Schreibberechtigungen für den Bildausgabeordner."
+
+#: src/MainWindow.py:344 src/MainWindow.py:374
+msgid "freed"
+msgstr "befreit"
+
+#: src/MainWindow.py:347 src/MainWindow.py:379
+msgid "increased"
+msgstr "erhöht"
+
+#: src/MainWindow.py:372 src/MainWindow.py:377
+msgid "Totally"
+msgstr "Vollständig"
+
+#: src/MainWindow.py:411 src/MainWindow.py:412 src/MainWindow.py:471
+#: src/MainWindow.py:729
+msgid "completed."
+msgstr "abgeschlossen."
+
+#: src/MainWindow.py:577 src/MainWindow.py:587 src/MainWindow.py:610
+#: src/MainWindow.py:623 src/MainWindow.py:646
+msgid "Changes saved."
+msgstr "Gespeicherte Änderungen."
+
+#: src/MainWindow.py:743
+msgid "Image optimization completed."
+msgstr "Bildoptimierung abgeschlossen."

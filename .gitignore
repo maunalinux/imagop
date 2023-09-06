@@ -1,0 +1,48 @@
+#Debian
+debian/imagop/
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/*.debhelper
+debian/*.substvars
+debian/files
+build/
+.*egg-info/
+ImagOP.egg-info/
+
+#Translations
+po/pt_BR/
+po/tr/
+po/af/
+po/de/
+po/es/
+po/fr/
+
+#PyCharm
+*.idea
+
+#Visual Studio Code
+*.vscode
+
+# Glade temporary files
+*.glade~
+*.ui~
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+.pybuild/

@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-07 01:34+0300\n"
+"PO-Revision-Date: 2023-08-07 22:29-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: ui/MainWindow.glade:36
+msgid "Optimizes the sizes of images."
+msgstr "Otimize o tamanho das imagens."
+
+#: ui/MainWindow.glade:122
+msgid "OK"
+msgstr "OK"
+
+#: ui/MainWindow.glade:162
+msgid "<small>You can drag and drop images to the field below.</small>"
+msgstr "<small>Você pode arrastar e soltar as imagens no campo abaixo.</small>"
+
+#: ui/MainWindow.glade:200
+msgid "Start Optimization"
+msgstr "Iniciar Otimização"
+
+#: ui/MainWindow.glade:233
+msgid "Optimization is in progress."
+msgstr "A otimização está em andamento."
+
+#: ui/MainWindow.glade:257
+msgid "JPG images :"
+msgstr "Imagens JPG :"
+
+#: ui/MainWindow.glade:296
+msgid "PNG images :"
+msgstr "Imagens PNG :"
+
+#: ui/MainWindow.glade:348
+msgid "Please wait ..."
+msgstr "Por favor, aguarde ..."
+
+#: ui/MainWindow.glade:417
+msgid "Show Files"
+msgstr "Mostrar Arquivos"
+
+#: ui/MainWindow.glade:433
+msgid "New Optimization"
+msgstr "Nova Otimização"
+
+#: ui/MainWindow.glade:489
+msgid "JPEG image quality :"
+msgstr "Qualidade de imagem JPEG :"
+
+#: ui/MainWindow.glade:517
+msgid "Image Quality Settings"
+msgstr "Configurações de Qualidade de Imagem"
+
+#: ui/MainWindow.glade:550
+msgid "Save pictures to folder"
+msgstr "Salve as fotos na pasta"
+
+#: ui/MainWindow.glade:551
+msgid "Save each image in its own directory"
+msgstr "Salve cada imagem em seu próprio diretório"
+
+#: ui/MainWindow.glade:552
+msgid "Overwrite existing image"
+msgstr "Substituir a imagem existente"
+
+#: ui/MainWindow.glade:576
+msgid "Image output folder :"
+msgstr "Pasta de saída da imagem :"
+
+#: ui/MainWindow.glade:616
+msgid "Image extra name :"
+msgstr "Nome extra da imagem :"
+
+#: ui/MainWindow.glade:652
+msgid "Image Output Settings"
+msgstr "Configurações de Saída da Imagem"
+
+#: ui/MainWindow.glade:671
+msgid "About"
+msgstr "Sobre"
+
+#: ui/MainWindow.glade:688
+msgid "Restore Defaults"
+msgstr "Restaurar Padrões"
+
+#: ui/MainWindow.glade:756
+msgid "Image Optimizer"
+msgstr "Otimizador de Imagem"
+
+#: ui/MainWindow.glade:763 src/MainWindow.py:182
+msgid "Select Image(s)"
+msgstr "Selecione as Imagens"
+
+#: ui/MainWindow.glade:780
+msgid "Settings"
+msgstr "Configurações"
+
+#: src/MainWindow.py:107
+msgid "Remove from list"
+msgstr "Remover da lista"
+
+#: src/MainWindow.py:184
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/MainWindow.py:185
+msgid "Open"
+msgstr "Abrir"
+
+#: src/MainWindow.py:189
+msgid "All supported files"
+msgstr "Todos os arquivos suportados"
+
+#: src/MainWindow.py:195
+msgid "PNG files"
+msgstr "Arquivos PNG"
+
+#: src/MainWindow.py:199
+msgid "JPG/JPEG files"
+msgstr "Arquivos JPG/JPEG"
+
+#: src/MainWindow.py:270
+msgid "You don't have write permissions to the image output folder."
+msgstr "Você não tem permissões de gravação para a pasta de saída da imagem."
+
+#: src/MainWindow.py:344 src/MainWindow.py:374
+msgid "freed"
+msgstr "livre"
+
+#: src/MainWindow.py:347 src/MainWindow.py:379
+msgid "increased"
+msgstr "aumentou"
+
+#: src/MainWindow.py:372 src/MainWindow.py:377
+msgid "Totally"
+msgstr "Totalmente"
+
+#: src/MainWindow.py:411 src/MainWindow.py:412 src/MainWindow.py:471
+#: src/MainWindow.py:729
+msgid "completed."
+msgstr "completado."
+
+#: src/MainWindow.py:577 src/MainWindow.py:587 src/MainWindow.py:610
+#: src/MainWindow.py:623 src/MainWindow.py:646
+msgid "Changes saved."
+msgstr "Alterações salvas."
+
+#: src/MainWindow.py:743
+msgid "Image optimization completed."
+msgstr "Otimização de imagem concluída."

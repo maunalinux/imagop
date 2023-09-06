@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=ImagOP
+Name[es]=ImagOP
+Name[pt_BR]=ImagOP
+Name[tr]=ImagOP
+Comment=Optimizes the sizes of images
+Comment[es]=Optimiza el tamaño de las imágenes
+Comment[pt_BR]=Otimize o tamanho das imagens
+Comment[tr]=Resimlerin boyutlarını optimize eder
+Exec=imagop
+Icon=imagop
+Terminal=false
+Type=Application
+Categories=GTK;Graphics;
+StartupNotify=true
+Keywords=image;optimizer;imagop;compress;press
+Keywords[es]=imagen;optimizador;imagop;comprimir
+Keywords[pt_BR]=imagem;otimizador;imagop;comprimir
+Keywords[tr]=resim;optimize;imagop;sıkıştır
+
